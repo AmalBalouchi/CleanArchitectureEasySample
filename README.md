@@ -22,7 +22,7 @@ The Clean Architecture design pattern is implemented in this project with the fo
 ## Setup and Installation
 1. **Clone the repository**:
     ```sh
-    git clone [copy-the-link]
+    git clone https://github.com/AmalBalouchi/CleanArchitectureEasySample.git
     cd your-repo-name
     ```
 
